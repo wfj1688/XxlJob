@@ -1,4 +1,5 @@
 using System.Net;
+using System.Net.Http;
 using XxlJob.Core.Internal;
 using XxlJob.Core.Model;
 
